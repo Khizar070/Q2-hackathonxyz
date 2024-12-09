@@ -1,6 +1,5 @@
 "use client"
 import Image from "next/image";
-
 export default function Home() {
   return (
     <div className="max-w-[90vw] mt-200px min-h-[100vh] mx-auto rounded-bl-[48px] rounded-br-[48px] bg-[#F0F2F3]">
